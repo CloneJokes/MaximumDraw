@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\MaximumDraws\MaximumDraws\bin\Debug\MaximumDraws.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\MaximumDraws\MaximumDraws\bin\Debug\MaximumDraws.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\MaximumDraws\MaximumDraws\bin\Debug\MaximumDraws.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\MaximumDraws\MaximumDraws\obj\Debug\MaximumDraws.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\MaximumDraws\MaximumDraws\obj\Debug\MaximumDraws.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\MaximumDraws\MaximumDraws\obj\Debug\MaximumDraws.csprojResolveAssemblyReference.cache
